@@ -1,0 +1,14 @@
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.exe
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.deps.json
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.runtimeconfig.json
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.runtimeconfig.dev.json
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.dll
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\bin\Debug\netcoreapp3.1\pz_10.pdb
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.csproj.AssemblyReference.cache
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.AssemblyInfoInputs.cache
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.AssemblyInfo.cs
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.csproj.CoreCompileInputs.cache
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.dll
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.pdb
+C:\Users\ivanz\Source\Repos\pz_10\pz_10\obj\Debug\netcoreapp3.1\pz_10.genruntimeconfig.cache
