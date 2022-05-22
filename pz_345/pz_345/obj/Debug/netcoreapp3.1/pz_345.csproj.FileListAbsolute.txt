@@ -1,0 +1,14 @@
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.exe
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.deps.json
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.runtimeconfig.json
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.runtimeconfig.dev.json
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.dll
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\bin\Debug\netcoreapp3.1\pz_345.pdb
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.csproj.AssemblyReference.cache
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.AssemblyInfoInputs.cache
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.AssemblyInfo.cs
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.csproj.CoreCompileInputs.cache
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.dll
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.pdb
+C:\Users\ivanz\Source\Repos\pz_345\pz_345\obj\Debug\netcoreapp3.1\pz_345.genruntimeconfig.cache
